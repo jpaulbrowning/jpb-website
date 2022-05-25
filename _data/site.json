@@ -9,7 +9,7 @@
   "navigationStyle": "horizontal",
   "emoji": "💥",
   "enableSearch": true,
-  "enableDarkMode": true,
+  "enableDarkMode": false,
   "enableEditButton": false,
   "enableDatestamp": false,
   "enableGithubLink": false,
