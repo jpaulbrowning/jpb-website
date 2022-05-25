@@ -1,13 +1,13 @@
 ---
-title: Hello, world.
+title: Jason P. Browning
 date: Last Modified 
 permalink: /
 eleventyNavigation:
   key: Hello 
   order: 0
-  title: Hello, world.
+  title: Home
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
+Hello.  This is my web page.  Of course, it's under development right now.
 
 ![Hello, world](/content/images/hello.jpg)
 
