@@ -1,17 +1,10 @@
 ---
-title: Jason P. Browning
+title: Jason P. Browning 
 date: Last Modified 
-permalink: /
-eleventyNavigation:
-  key: Hello 
-  order: 0
-  title: Home
+permalink: / 
 ---
-Hello.  This is my web page.  Of course, it's under development right now.
+I'm a data and analytics researcher and practitioner, focusing on data analysis, warehousing, and machine learning in higher education.  I love to make technical topics accessible to diverse audiences, and to create compelling analyses.
 
 ![Hello, world](/content/images/hello.jpg)
 
-->*Onward...*<-
-
-
-
+->*Check back soon...*<-
