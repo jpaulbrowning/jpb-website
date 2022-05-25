@@ -6,7 +6,7 @@
   "url": "http://www.jasondata.com",
   "githubUrl": "https://github.com/jpaulbrowning/jpb-website",
   "githubBranch": "main",
-  "navigationStyle": "horizontal",
+  "navigationStyle": "vertical",
   "emoji": "🇯",
   "enableSearch": true,
   "enableDarkMode": false,
