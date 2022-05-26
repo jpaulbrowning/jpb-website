@@ -6,37 +6,7 @@ eleventyNavigation:
   order: 20
   key: Resume 
 ---
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jpaulbrowning 
-mszep
-/
-pandoc_resume
-Public
-Code
-Issues
-23
-Pull requests
-3
-Actions
-Projects
-Wiki
-Security
-Insights
-pandoc_resume/styles/chmduquesne.css
-@chongchonghe
-chongchonghe Some minor modification to styles/chmduquesne.css to improve the appe…
-…
-Latest commit 6f650a3 on Jan 26, 2020
- History
- 1 contributor
-95 lines (87 sloc)  1.75 KB
-   
+
 <style type="text/css">
 /*
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
