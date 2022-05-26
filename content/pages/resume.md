@@ -7,194 +7,95 @@ eleventyNavigation:
   key: Resume 
 ---
 
-<style type="text/css">
-/*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
- * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
- */
+Developer Experience engineer, DevOps enthusiast. In 2020 I switched from team management to an individual contributor role to feel the engineering world on the tip of my fingers again.
 
-/* Whole document */
-body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
-}
+Certified: AWS Solutions Architect Associate, Terraform Associate.
 
-/* Title of the resume */
-h1 {
-    font-size: 55px;
-    color: #757575;
-    text-align:center;
-    margin-bottom:15px;
-}
-/* h1:hover { */
-/*     background-color: #757575; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
+From Nov'20
+:   **Developer Experience Engineer at [Grammarly](https://grammarly.com) (full-time)**
 
-/* Titles of categories */
-h2 {
-    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
-}
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 10px;
-    /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
-}
-/* h2:hover { */
-/*     background-color: #397249; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
-
-/* Definitions */
-dt {
-    float: left;
-    clear: left;
-    width: 17%;
-    font-weight: bold;
-}
-dd {
-    margin-left: 17%;
-    margin-bottom:7px;
-}
-p {
-    margin-top:0;
-    margin-bottom:7px;
-}
-
-/* Blockquotes */
-blockquote {
-    text-align: center
-}
-
-/* Links */
-a {
-    text-decoration: none;
-    color: #397249;
-}
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
-
-/* Horizontal separators */
-hr {
-    color: #A6A6A6;
-}
-
-table {
-    width: 100%;
-}
-</style>
+    Making day-to-day work of developers more productive and agile by:
+    - Providing automation and tooling for routine SDLC procedures
+    - Enriching experience in Infrastructure, Automation, Observability areas
+    - Standardizing commonly used infrastructure components
 
 
-Johnny Coder
-============
+Jul'20 — Sep'21
+:   **DevOps Coach at [Hillel IT School](https://ithillel.ua/) (part-time)**
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+    Teaching DevOps and doing workshops about AWS and Terraform.
 
-Education
----------
+Mar'17 – Jun'20
+:   **DevOps Teamlead at [ITCraft](https://itechcraft.com/blog/clients-amazon-aws-hosting/) (full-time)**
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+    My biggest project — my team. A skilled and highly motivated team of engineers that sincerely cares about its work outcomes.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    #### Key accomplishments:
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+    - Created a team of engineers that completed more than 40 successful projects of different sizes;
+    - Team size growth: from 1 to 8;
+    - Tripled the number of shared projects with other departments by boosting department reputation and team visibility within the company;
+    - Introduced DevOps as a Service business model in the department;
+    - Mentored senior and middle engineers from junior newcomers;
+    - Fostered the culture of ownership.
 
-    *Minor: Awesomeology*
+    #### Challenges:
 
-Experience
-----------
+    - Transform team members' mindset toward ownership culture;
+    - Keep the team motivated despite workload level: during peaks and drawdowns;
+    - Justification of the advantages of my team to the clients on the pre-sales stage.
 
-**Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Nov'14 – Sep'16
+:   **Chief Technologist at [YourServerAdmin](https://yourserveradmin.com/) (full-time)**
 
-* First item
+    I was responsible for the technical side of processes inside the department and researching the new technologies we could implement for our clients.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    Introduced ITIL practices together with our COO and, what I like the most, could change how our sysadmin's department worked with the development department. The work became more coordinated and more integrated.
 
-**That Other Job You Had**
 
-Also with a short description.
+    Also, I managed the projects using practices from PRINCE2 methodology and the Theory of Constraints.
+    
+    #### Key accomplishments:
+    
+    - Improved technical expertise of a support team;
+    - Improved task management;
+    - Increased team size;
+    - Fostered the change of team mindset to Agile thinking.
 
-Technical Experience
---------------------
+Jun'11 – Nov'14
+:   **System Administrator / Support Engineer at [YourServerAdmin](https://yourserveradmin.com/) (full-time)**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+    Started my career in IT: grew up from a Level-1 tech support engineer (communication with customers and initial problem analysis) to Level-3 System Administrator responsible for complex technical tasks and daily shift management.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Skills
+----------------------------------
+Team Leader
+:   Team motivation, mentorship, cultivation of soft/hard skills of team members.\
+Fostering team values and working principles and developing the new ones together with the team.\
+Hiring new team members and forming the required team skillset.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+PM
+:   Managing stand-alone DevOps projects and operations parts of big projects with dev teams.\
+Resources and capacity management.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Clouds
+:   Amazon Web Services. Design and fine-tuning of resilient and HA infrastructures; costs optimization and security hardening.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Techs
+:   Jenkins, GitlabCI, Github Actions, Bitrise, CircleCI.\
+Terraform, Docker, Ansible, Nginx, Apache, Databases.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+English
+:   C1 (CEFR) / Advanced.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Activities and interests
+------------------------
+Travel
+:   I like to explore new cities and countries, and I like trekking. I've been to the Annapurna base camp, and now I want to visit Everest's base camp.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Blogging
+:   I love to write tutorials and articles about the technologies I use and learn. AWS Community Builder and HashiCorp Ambassador.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-view raw
+Science
+:   Fond of History, Astronomy, and Physics. I wish to see the Betelgeuse supernova explosion someday, even though the expected explosion date is somewhere between today and 100k years. 
