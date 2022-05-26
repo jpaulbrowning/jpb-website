@@ -1,6 +1,7 @@
 ---
 title: About me | Jason Browning
 date: 2022-05-26
+permalink: /about/index.html
 eleventyNavigation:
   order: 10
   key: About 
