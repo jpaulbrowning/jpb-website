@@ -11,8 +11,8 @@ Developer Experience engineer, DevOps enthusiast. In 2020 I switched from team m
 
 Certified: AWS Solutions Architect Associate, Terraform Associate.
 
-From Nov'20
-:   **Developer Experience Engineer at [Grammarly](https://grammarly.com) (full-time)**
+**Senior Director of Partner Technology, [EAB](http://www.eab.com)**
+2021 - Present
 
     Making day-to-day work of developers more productive and agile by:
     - Providing automation and tooling for routine SDLC procedures
