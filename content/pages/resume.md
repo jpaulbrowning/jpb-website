@@ -7,23 +7,28 @@ eleventyNavigation:
   key: Resume 
 ---
 
-Developer Experience engineer, DevOps enthusiast. In 2020 I switched from team management to an individual contributor role to feel the engineering world on the tip of my fingers again.
+Experienced analytics and business intelligence professional.
 
-Certified: AWS Solutions Architect Associate, Terraform Associate.
+**Senior Director of Partner Technology** (2021-Present)
+**[EAB Global](http://www.eab.com)**
 
-**Senior Director of Partner Technology, [EAB](http://www.eab.com)**
-2021 - Present
+- Identify, architect, and present solutions to prospects and customers around data best practices and data management.
+- Engage with prospective partners to understand their institutional and technical objectives.
+- Present webinars and trainings to the higher education community around data warehousing and management.
+- Consult with institutions on implementation of a modern instuttional research adn effective function on campus.
+- Participate in product development and strategize on product implementation and deployment.
+- Serve as a subject matter expert in data architecture and student information systems.
 
-    Making day-to-day work of developers more productive and agile by:
-    - Providing automation and tooling for routine SDLC procedures
-    - Enriching experience in Infrastructure, Automation, Observability areas
-    - Standardizing commonly used infrastructure components
+**Executive Director of Institutional Effectiveness** (2019-2021)
+**[Utah Tech University](http://www.utahtech.edu)**
 
+- Consulted with and supported senior leadership as a member of the President and Provost’s leadership team.
+- Led the development, implementation, and ongoing monitoring of a campus-wide system of integrated planning, assessment, and evaluation.
+- Managed cross-functional teams to facilitate institutional effectiveness, including the offices of institutional research, assessment, accreditation, and strategic planning.
+- Democratized data and encouraged the use of data-informed decision making.
+- Oversaw the implementation of an institutional data warehouse and business intelligence solution using RStudio, RStudio Connect, Tableau, and other SQL solutions.
+- Advised on trends, analyses, and key levers that will enhance institutional health, resolve problems, and help achieve goals.
 
-Jul'20 — Sep'21
-:   **DevOps Coach at [Hillel IT School](https://ithillel.ua/) (part-time)**
-
-    Teaching DevOps and doing workshops about AWS and Terraform.
 
 Mar'17 – Jun'20
 :   **DevOps Teamlead at [ITCraft](https://itechcraft.com/blog/clients-amazon-aws-hosting/) (full-time)**
