@@ -17,6 +17,6 @@ I am passionate about operationalizing analytics and business intelligence to in
 
 Before the world of edcuational technology and higher education, I worked in banking and finance, including roles in decision support and analytics at [Discover](http://www.discover.com) and as a bank examiner and compliance officer.  I have an MBA from [Xavier University](http://www.xavier.edu) and did my undergraduate work in accounting and economics at [Bellarmine University](http://www.bellarmine.edu).
 
-I am originally from eastern Kentucky, but now live on the Kitsap Peninsula outside of Seattle, Washington.  The beauty of the area is perfect for hiking with my two dogs, and the city of Seattle offers world-class culture and dining (and great coffee)!
+I am originally from [eastern Kentucky](http://www.flemingsburgky.org/), but now live on the [Kitsap Peninsula](https://www.visitkitsap.com/) outside of [Seattle, Washington](https://visitseattle.org/).  The beauty of the area is perfect for hiking with my two dogs, and the city of Seattle offers world-class culture and dining (and great coffee)!
 
 This blog is built using the [Spacebook](http://spacebook.app) starter project on [Eleventy](https://www.11ty.dev/), and deployed using [Netlify](https://www.netlify.com/).
