@@ -3,7 +3,7 @@ title: Resume | Jason Browning
 date: 2022-05-26
 permalink: /resume/index.html
 eleventyNavigation:
-  order: 10
+  order: 20
   key: Resume 
 ---
 
