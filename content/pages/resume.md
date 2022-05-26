@@ -9,7 +9,7 @@ eleventyNavigation:
 
 Experienced analytics and business intelligence professional.
 
-## Professional experience
+## 💻 Professional experience
 
 **Senior Director of Partner Technology** <span style="float:right;">2021-Present</span>
 **[EAB Global](http://www.eab.com)**
@@ -73,7 +73,7 @@ Experienced analytics and business intelligence professional.
 - Collaborated extensively with the Office of Institutional Research and Effectiveness to perform statistical analysis and research for institutional, state, and federal reporting.  Used SPSS, SAS, PeopleSoft, Oracle PL/SQL, and other tools to analyze and manipulate data.
 
 
-## Education
+## 🏛️ Education
 
 **Doctor of Philosophy (Ph.D.), Higher Education Administration**
 **Minor in Quantitative Methods**
