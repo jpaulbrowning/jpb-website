@@ -9,7 +9,7 @@ eleventyNavigation:
 
 Experienced analytics and business intelligence professional.
 
-## 💻 Professional experience
+## 🖥️ Professional experience
 
 **Senior Director of Partner Technology** <span style="float:right;">2021-Present</span>
 **[EAB Global](http://www.eab.com)**
