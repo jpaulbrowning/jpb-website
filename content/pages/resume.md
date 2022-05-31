@@ -9,8 +9,23 @@ eleventyNavigation:
 
 Experienced analytics and business intelligence professional.
 
-- [Professional experience](#profexp)
 - [Education](#education)
+- [Professional experience](#profexp)
+- [Teaching experience](#teach)
+
+## <a name="education"></a> 🏛️ Education
+
+**Ph.D., Higher Education Administration**
+**Minor in Quantitative Methods**
+[University of Wyoming](http://www.uwyo.edu)		
+- Dissertation: The Emergence of the Chief Data Officer in Higher Education [(PDF)](https://drive.google.com/file/d/1ntpkB_YvK2n_EiG0n0SecYI8HglEJAse/view)
+- Committee: Drs. Reed Scull (chair), Courtney McKim (co-chair), Sara Axelson, Andrea Burrows, Richard Kitchen
+
+**MBA**
+[Xavier University](http://www.xavier.edu)
+
+**BA, Accounting and Economics**
+[Bellarmine University](http://www.bellarmine.edu)
 
 ## <a name="profexp"></a> 🖥️ Professional experience
 
@@ -76,16 +91,21 @@ Experienced analytics and business intelligence professional.
 - Collaborated extensively with the Office of Institutional Research and Effectiveness to perform statistical analysis and research for institutional, state, and federal reporting.  Used SPSS, SAS, PeopleSoft, Oracle PL/SQL, and other tools to analyze and manipulate data.
 
 
-## <a name="education"></a> 🏛️ Education
+## <a name="teach"></a> 📓 Teaching experience
 
-**Doctor of Philosophy (Ph.D.), Higher Education Administration**
-**Minor in Quantitative Methods**
-[University of Wyoming](http://www.uwyo.edu)		
-- Dissertation: The Emergence of the Chief Data Officer in Higher Education [(PDF)](https://drive.google.com/file/d/1ntpkB_YvK2n_EiG0n0SecYI8HglEJAse/view)
-- Committee: Drs. Reed Scull (chair), Courtney McKim (co-chair), Sara Axelson, Andrea Burrows, Richard Kitchen
+**Undergraduate courses taught at the Northern Wyoming Community College District**
 
-**Master of Business Administration (MBA)**
-[Xavier University](http://www.xavier.edu)
+| Term        | Modality | Course title                           
+| ----------- | -------- | ------------------------------------  |
+| Summer 2022<br>Fall 2021, 2020, 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
+| Fall 2020   | Online | Introduction to Managerial Accounting |
+| Summer 2022 | Online | Principles of Management |
+| Spring 2022 | Online | Principles of Microconomics |
+| Spring 2022 | Online | Principles of Macroeconomics |
 
-**Bachelor of Arts (BA), Accounting and Economics**
-[Bellarmine University](http://www.bellarmine.edu)
+**Graduate courses taught at other institutions**
+
+| Term        | Institution             | Modality | Course title                         |
+| ----------- | ------------------------| -------- | ------------------------------------ |
+| Summer 2022 | Grand Canyon University | Online   | Introduction to Buiness Analytics    |
+| Summer 2019 | University of Wyoming   | Online   | Introduction to Educational Research |
