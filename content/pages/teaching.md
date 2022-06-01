@@ -10,9 +10,11 @@ eleventyNavigation:
 ---
 **Undergraduate courses taught at the Northern Wyoming Community College District**
 
+Click on the term to view student course evaluationss where available.
+
 | Term        | Modality | Course title                           
 | ----------- | -------- | ------------------------------------  |
-| Summer 2022<br>Fall 2021, 2020, 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
+| Summer 2022<br>Fall [2021](https://drive.google.com/file/d/1INPK3E0OjlcYbZkUvadhlmm6oCdcr4iv/view?usp=sharing), 2020, 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
 | Summer 2022<br>Fall 2021 | Online<br>Online | Principles of Management |
 | Spring 2022 | Online | Principles of Microconomics |
 | Spring 2022 | Online | Principles of Macroeconomics 
@@ -20,7 +22,7 @@ eleventyNavigation:
 
 **Graduate courses taught at other institutions**
 
-| Term        | Institution             | Modality | Course title                         |
-| ----------- | ------------------------| -------- | ------------------------------------ |
-| Summer 2022 | Grand Canyon University | Online   | Introduction to Buiness Analytics    |
-| Summer 2019 | University of Wyoming   | Online   | Introduction to Educational Research |
+| Term        | Institution             | Modality | Course title                          |
+| ----------- | ------------------------| -------- | ------------------------------------- |
+| Summer 2022 | Grand Canyon University | Online   | Introduction to Business Analytics    |
+| Summer 2019 | University of Wyoming   | Online   | Introduction to Educational Research  |
