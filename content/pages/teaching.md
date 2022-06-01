@@ -10,15 +10,15 @@ eleventyNavigation:
 ---
 **Undergraduate courses taught at the Northern Wyoming Community College District**
 
-Click on the term to view student course evaluationss where available.
+Click on the term to view student course evaluations where available.
 
 | Term        | Modality | Course title                           
 | ----------- | -------- | ------------------------------------  |
-| Summer 2022<br>Fall [2021](https://drive.google.com/file/d/1INPK3E0OjlcYbZkUvadhlmm6oCdcr4iv/view?usp=sharing), 2020, 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
-| Summer 2022<br>Fall 2021 | Online<br>Online | Principles of Management |
+| Summer 2022<br>Fall [2021](https://drive.google.com/file/d/1INPK3E0OjlcYbZkUvadhlmm6oCdcr4iv/view?usp=sharing), [2020](https://drive.google.com/file/d/1dxM2uvtgHSUzy4k0MennEXKKcjRKPXe0/view?usp=sharing), 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
+| Summer 2022<br>Fall [2021](https://drive.google.com/file/d/1INsBgMWGE1iM0ktRJ88kG2slTRKUr8NJ/view?usp=sharing) | Online<br>Online | Principles of Management |
 | Spring 2022 | Online | Principles of Microconomics |
 | Spring 2022 | Online | Principles of Macroeconomics 
-| Spring 2021, 2020, 2019   | Online | Introduction to Managerial Accounting |
+| Spring [2021](https://drive.google.com/file/d/1F-rGg4Fw-CYGzFnGWWLUAGKdfSmB1lF6/view?usp=sharing), [2020](https://drive.google.com/file/d/1ZsdKBKR9VUAq4Q3ODBIj4lpt1-LcfxGv/view?usp=sharing), 2019   | Online | Introduction to Managerial Accounting |
 
 **Graduate courses taught at other institutions**
 
