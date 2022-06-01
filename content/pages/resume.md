@@ -13,3 +13,4 @@ I am an experienced analytics and business intelligence professional.  The follo
 - 🏛️ [Education](/education)
 - 🖥️ [Professional experience](/experience)
 - 📓 [Teaching experience](/teaching)
+- 📚 [Publications and presentations](/publication)

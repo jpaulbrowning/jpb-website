@@ -26,3 +26,20 @@ Click on the term to view student course evaluationss where available.
 | ----------- | ------------------------| -------- | ------------------------------------- |
 | Summer 2022 | Grand Canyon University | Online   | Introduction to Business Analytics    |
 | Summer 2019 | University of Wyoming   | Online   | Introduction to Educational Research  |
+
+**Pluralsight courses authored**
+
+Please visit my Pluralsight course [author page](https://app.pluralsight.com/profile/author/jason-browning). I have authored six courses with an average learner rating of 4.7 out of 5.0.  You may view course trailers for any of my courses:
+
+- SQL courses
+    - [Querying Data Using PostgreSQL](https://app.pluralsight.com/library/courses/querying-data-postgresql)
+    - [Combining and Filtering Data Using PostgreSQL](https://app.pluralsight.com/library/courses/combining-filtering-data-postgresql)
+- R courses
+    - [The R Playbook: Importing Common File Formats](https://app.pluralsight.com/library/courses/importing-common-data-file-formats-r-playbook)
+    - [Validating Data Using Assertions in R](https://app.pluralsight.com/library/courses/validating-data-using-asserts-r)
+- Data visualization courses
+    - [Building Your First Dashboard Using Chartio](https://app.pluralsight.com/library/courses/build-first-dashboard-chartio)
+    - [Tableau Certified Desktop Professional: Visual Best Practices](https://app.pluralsight.com/library/courses/tableau-desktop-certified-professional-visual-best-practices)
+- Currently in development
+    - Data Preparation for Analysis with Alteryx (in process)
+    - Data Manipulation with Alteryx (in process)
