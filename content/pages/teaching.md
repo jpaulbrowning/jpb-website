@@ -13,10 +13,10 @@ eleventyNavigation:
 | Term        | Modality | Course title                           
 | ----------- | -------- | ------------------------------------  |
 | Summer 2022<br>Fall 2021, 2020, 2019<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
-| Fall 2020   | Online | Introduction to Managerial Accounting |
-| Summer 2022 | Online | Principles of Management |
+| Summer 2022<br>Fall 2021 | Online<br>Online | Principles of Management |
 | Spring 2022 | Online | Principles of Microconomics |
-| Spring 2022 | Online | Principles of Macroeconomics |
+| Spring 2022 | Online | Principles of Macroeconomics 
+| Spring 2021, 2020, 2019   | Online | Introduction to Managerial Accounting |
 
 **Graduate courses taught at other institutions**
 
