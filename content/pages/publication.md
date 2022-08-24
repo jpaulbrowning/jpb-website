@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## 📖 Publications
 
-Browning, J. P.  (2022).  Effective data infrastructure for a data-informed campus.  Academic Leader, June 2022.
+Browning, J. P.  (2022).  [Effective data infrastructure for a data-informed campus](https://drive.google.com/file/d/1WNaBEh6joxDjQYtjyrPOgD64q26Sz5X3/view?usp=sharing).  Academic Leader, June 2022.
 
 Browning, J. P.  (2021).  [The emergence of the chief data officer in higher education](https://www.proquest.com/openview/07d577ca91b98bf6f621892e6c5f715c/1?pq-origsite=gscholar&cbl=18750&diss=y) [Doctoral dissertation, University of Wyoming].  ProQuest Dissertations and Theses Global.
 
