@@ -24,9 +24,11 @@ Browning, J. P.  (2008, October 29).  [Implementing AdvisorTrac advising center 
 
 ## 👨‍🏫 Presentations
 
+Browning, J. P. & Dwyer, M.  (2022).  [Building a culture of data confidence](https://pages.eab.com/July-Webinar-BuildingaCultureofDataConfidence-Resources.html).  EAB, Washington, DC.
+
 Browning, J. P. & Hagerty, M.  (2021).  Reclaiming insight through better data architecture.  Invited conference presentation.  EAB, CONNECTED21 Student Success Conference, Washington, DC.
 
-Browning, J. P. & Yardy, D.  (2021).  Next-gen student success: How data and analytics can reshape student support.  EAB, Washington, DC.
+Browning, J. P. & Yardy, D.  (2021).  [Next-gen student success: How data and analytics can reshape student support](https://pages.eab.com/Data-Priorities-Student-Success-Webinar-Archived.html).  EAB, Washington, DC.
 
 Browning, J. P.  (2020).  Dixie State University: Building an institutional effectiveness function.  EAB Product Advisory Board, Washington, DC.
 
