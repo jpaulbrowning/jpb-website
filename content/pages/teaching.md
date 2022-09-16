@@ -24,7 +24,7 @@ Click on the term to view student course evaluations where available.
 
 | Term        | Institution             | Modality | Course title                          |
 | ----------- | ------------------------| -------- | ------------------------------------- |
-| Summer 2022 | Grand Canyon University | Online   | Data Mining                           |
+| Fall 2022<br>Summer 2022 | Grand Canyon University | Online   | Data Mining                           |
 | Summer 2019 | University of Wyoming   | Online   | Introduction to Educational Research  |
 
 **Pluralsight courses authored**
