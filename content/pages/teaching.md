@@ -14,11 +14,11 @@ Click on the term to view student course evaluations where available.
 
 | Term        | Modality | Course title                           
 | ----------- | -------- | ------------------------------------  |
-| Summer [2022](https://drive.google.com/file/d/1-57WJ9NsxOaJ2PooNB7QkJFFuoIQvpRG/view?usp=sharing)<br>Fall [2021](https://drive.google.com/file/d/1INPK3E0OjlcYbZkUvadhlmm6oCdcr4iv/view?usp=sharing), [2020](https://drive.google.com/file/d/1dxM2uvtgHSUzy4k0MennEXKKcjRKPXe0/view?usp=sharing), [2019](https://drive.google.com/file/d/1ZrK2tQbknl-hUngTfAvuXezYiPV2mleA/view?usp=sharing)<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
+| Summer [2022](https://drive.google.com/file/d/1-57WJ9NsxOaJ2PooNB7QkJFFuoIQvpRG/view?usp=sharing)<br>Fall 2022, [2021](https://drive.google.com/file/d/1INPK3E0OjlcYbZkUvadhlmm6oCdcr4iv/view?usp=sharing), [2020](https://drive.google.com/file/d/1dxM2uvtgHSUzy4k0MennEXKKcjRKPXe0/view?usp=sharing), [2019](https://drive.google.com/file/d/1ZrK2tQbknl-hUngTfAvuXezYiPV2mleA/view?usp=sharing)<br>Fall 2018 | Online<br>Online<br>In person | Introduction to Financial Accounting |
 | Summer 2022<br>Fall [2021](https://drive.google.com/file/d/1INsBgMWGE1iM0ktRJ88kG2slTRKUr8NJ/view?usp=sharing) | Online<br>Online | Principles of Management |
 | Spring [2022](https://drive.google.com/file/d/1-6_2PZBeNwdtQ_VHa1t-bWMxMr8wjIOH/view?usp=sharing) | Online | Principles of Microeconomics |
 | Spring [2022](https://drive.google.com/file/d/1-9S8bpSlNsA3b9fYRQh1knxsKKm8q0kQ/view?usp=sharing) | Online | Principles of Macroeconomics 
-| Spring [2021](https://drive.google.com/file/d/1F-rGg4Fw-CYGzFnGWWLUAGKdfSmB1lF6/view?usp=sharing), [2020](https://drive.google.com/file/d/1ZsdKBKR9VUAq4Q3ODBIj4lpt1-LcfxGv/view?usp=sharing), [2019](https://drive.google.com/file/d/1ZicjoyHLbUQqZdn_Rj-4PJhU3fCJ_kiM/view?usp=sharing)   | Online | Introduction to Managerial Accounting |
+| Fall 2022<br>Spring [2021](https://drive.google.com/file/d/1F-rGg4Fw-CYGzFnGWWLUAGKdfSmB1lF6/view?usp=sharing), [2020](https://drive.google.com/file/d/1ZsdKBKR9VUAq4Q3ODBIj4lpt1-LcfxGv/view?usp=sharing), [2019](https://drive.google.com/file/d/1ZicjoyHLbUQqZdn_Rj-4PJhU3fCJ_kiM/view?usp=sharing)   | Online | Introduction to Managerial Accounting |
 
 **Graduate courses taught at other institutions**
 
