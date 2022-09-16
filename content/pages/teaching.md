@@ -32,14 +32,17 @@ Click on the term to view student course evaluations where available.
 Please visit my Pluralsight course [author page](https://www.pluralsight.com/profile/author/jason-browning). I have authored eight courses with an average learner rating of 4.7 out of 5.0.  You may view course trailers for any of my courses:
 
 - SQL courses
-    - [Querying Data Using PostgreSQL](https://www.pluralsight.com/library/courses/querying-data-postgresql) (Sample: [Demonstrating SQL Functions in Practice](https://drive.google.com/file/d/1-AgYGg6xxXqTe4fG7fPEzyaPMhh6JKLz/view?usp=sharing))
+    - [Querying Data Using PostgreSQL](https://www.pluralsight.com/library/courses/querying-data-postgresql)
+        - (Sample clip: [Demonstrating SQL Functions in Practice](https://drive.google.com/file/d/1-AgYGg6xxXqTe4fG7fPEzyaPMhh6JKLz/view?usp=sharing))
     - [Combining and Filtering Data Using PostgreSQL](https://www.pluralsight.com/library/courses/combining-filtering-data-postgresql)
 - R courses
-    - [The R Playbook: Importing Common File Formats](https://www.pluralsight.com/library/courses/importing-common-data-file-formats-r-playbook) (Sample: [Importing Microsoft Excel files](https://drive.google.com/file/d/1-MyOQ-JP_n9yYFwgLx2cXCq_ZcL72H2h/view?usp=sharing))
+    - [The R Playbook: Importing Common File Formats](https://www.pluralsight.com/library/courses/importing-common-data-file-formats-r-playbook)
+        - (Sample clip: [Importing Microsoft Excel files](https://drive.google.com/file/d/1-MyOQ-JP_n9yYFwgLx2cXCq_ZcL72H2h/view?usp=sharing))
     - [Validating Data Using Assertions in R](https://www.pluralsight.com/library/courses/validating-data-using-asserts-r)
 - Data visualization courses
     - [Building Your First Dashboard Using Chartio](https://www.pluralsight.com/library/courses/build-first-dashboard-chartio)
-    - [Tableau Certified Desktop Professional: Visual Best Practices](https://www.pluralsight.com/library/courses/tableau-desktop-certified-professional-visual-best-practices) (Sample: [Visualizing Change Over Time](https://drive.google.com/file/d/1-QD9Wtrq2LtkSasLTG6FSEv2cN9A4JpZ/view?usp=sharing))
+    - [Tableau Certified Desktop Professional: Visual Best Practices](https://www.pluralsight.com/library/courses/tableau-desktop-certified-professional-visual-best-practices)
+        - (Sample clip: [Visualizing Change Over Time](https://drive.google.com/file/d/1-QD9Wtrq2LtkSasLTG6FSEv2cN9A4JpZ/view?usp=sharing))
 - Alteryx Courses
     - [Data Preparation for Analysis with Alteryx](https://www.pluralsight.com/library/courses/data-preparation-analysis-alteryx)
     - [Data Manipulation with Alteryx](https://www.pluralsight.com/library/courses/data-manipulation-alteryx)
