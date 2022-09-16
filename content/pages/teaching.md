@@ -32,7 +32,7 @@ Click on the term to view student course evaluations where available.
 Please visit my Pluralsight course [author page](https://www.pluralsight.com/profile/author/jason-browning). I have authored eight courses with an average learner rating of 4.7 out of 5.0.  You may view course trailers for any of my courses:
 
 - SQL courses
-    - [Querying Data Using PostgreSQL](https://www.pluralsight.com/library/courses/querying-data-postgresql)
+    - [Querying Data Using PostgreSQL](https://www.pluralsight.com/library/courses/querying-data-postgresql) (Sample clip: Demonstrating SQL Functions in Practice)[https://drive.google.com/file/d/1-AgYGg6xxXqTe4fG7fPEzyaPMhh6JKLz/view?usp=sharing]
     - [Combining and Filtering Data Using PostgreSQL](https://www.pluralsight.com/library/courses/combining-filtering-data-postgresql)
 - R courses
     - [The R Playbook: Importing Common File Formats](https://www.pluralsight.com/library/courses/importing-common-data-file-formats-r-playbook)
