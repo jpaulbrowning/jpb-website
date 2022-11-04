@@ -43,8 +43,8 @@ Please visit my Pluralsight course [author page](https://www.pluralsight.com/pro
     - [Building Your First Dashboard Using Chartio](https://www.pluralsight.com/library/courses/build-first-dashboard-chartio)
     - [Tableau Certified Desktop Professional: Visual Best Practices](https://www.pluralsight.com/library/courses/tableau-desktop-certified-professional-visual-best-practices)
         - 🎬 Sample clip: [Visualizing Change Over Time](https://drive.google.com/file/d/1-QD9Wtrq2LtkSasLTG6FSEv2cN9A4JpZ/view?usp=sharing)
-- Alteryx Courses
+- Alteryx courses
     - [Data Preparation for Analysis with Alteryx](https://www.pluralsight.com/library/courses/data-preparation-analysis-alteryx)
     - [Data Manipulation with Alteryx](https://www.pluralsight.com/library/courses/data-manipulation-alteryx)
-- Currently in development
-    - Preparing for the Certified Analytics Professional Exam (in process)
+- Other courses
+    - [Preparing for the Certified Analytics Professional Exam](http://www.pluralsight.com/courses/taking-the-exam-certified-analytics-professional)
